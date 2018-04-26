@@ -1,2 +1,3 @@
 # googlecontainer
-pull from gcr.io
+
+pull from k8s.gcr.io
